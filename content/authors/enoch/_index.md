@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- PhD Students
 ---
 
 Cian is a Postdoc at the Bozkurt lab in Imperial, studying where NLRs localise in plant cells during infection with the potato blight pathogen and how this localisation contributes to disease resistance. 
