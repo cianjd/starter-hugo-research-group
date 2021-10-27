@@ -4,7 +4,7 @@ title: Dr Yasin Tumtas
 
 # Username (this should match the folder name)
 authors:
-- yasindetails
+- yasin
 
 # Is this the primary user of the site?
 superuser: false
