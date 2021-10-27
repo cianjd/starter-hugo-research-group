@@ -23,15 +23,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#  - course: PhD in Artificial Intelligence
+ #   institution: Stanford University
+  #  year: 2012
+  #- course: MEng in Artificial Intelligence
+   # institution: Massachusetts Institute of Technology
+    #year: 2009
+  #- course: BSc in Artificial Intelligence
+   # institution: Massachusetts Institute of Technology
+    #year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,6 +68,4 @@ user_groups:
 - Group leader
 ---
 
-Tolga Bozkurt is a Senior Lecturer (US: Associate Professor) in plant immunity at the Department of Life Sciences at Imperial College London. His research interests include. He leads the group.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tolga Bozkurt is a Senior Lecturer (US: Associate Professor) in plant immunity at the Department of Life Sciences at Imperial College London. He leads the group.
