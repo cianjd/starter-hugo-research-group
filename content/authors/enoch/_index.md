@@ -1,7 +1,7 @@
 
 ---
 # Display name
-title: Enoch Yuen
+title: Enoch Lok Him Yuen
 
 # Username (this should match the folder name)
 authors:
@@ -25,6 +25,7 @@ interests:
 - Cell biology
 - NLRs
 - Plant immunity
+- Travelling and Quizzing
 
 education:
   courses:
@@ -45,16 +46,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cian.duggan14@imperial.ac.uk'
+  link: 'mailto:lok.yuen15@imperial.ac.uk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/cianduggan
+  link: https://twitter.com/enochyuen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=w3e1Rz0AAAAJ
+  link: https://scholar.google.com/citations?user=f9xF_L4AAAAJ&hl=en
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0001-7302-7472
+  link: https://orcid.org/0000-0002-7933-0605
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/enochyuen/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
