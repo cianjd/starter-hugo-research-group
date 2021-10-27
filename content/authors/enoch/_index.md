@@ -78,6 +78,4 @@ user_groups:
 - PhD Students
 ---
 
-Cian is a Postdoc at the Bozkurt lab in Imperial, studying where NLRs localise in plant cells during infection with the potato blight pathogen and how this localisation contributes to disease resistance. 
-
-He will soon be leaving the Bozkurt lab to start a biotech company on NLR biology with Tolga.
+Enoch completed his BSc in Biological Sciences at Imperial, and his MPhil in Business Management at the University of Cambridge. He enjoys travelling and quizzing. He commenced his PhD in the lab in 2020, working on autophagy.
