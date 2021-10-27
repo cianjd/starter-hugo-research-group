@@ -23,15 +23,16 @@ interests:
 
 education:
   courses:
-#  - course: PhD in Artificial Intelligence
- #   institution: Stanford University
-  #  year: 2012
-  #- course: MEng in Artificial Intelligence
-   # institution: Massachusetts Institute of Technology
-    #year: 2009
-  #- course: BSc in Artificial Intelligence
-   # institution: Massachusetts Institute of Technology
-    #year: 2008
+  - course: PhD in Biotechnology
+    institution: Middle East Technical University, Ankara, Turkey
+    year: 2007
+  - course: MSc in Biotechnology
+    institution: Middle East Technical University, Ankara, Turkey
+    year: 2002
+  - course: Undergraduate in Biology
+    institution: Hacettepe University Ankara, Turkey
+    year: 1999
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
