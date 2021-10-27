@@ -33,6 +33,9 @@ education:
     institution: Hacettepe University Ankara, Turkey
     year: 1999
 
+work:
+  work:
+  -asdsad
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
