@@ -19,8 +19,7 @@ content:
   - Group leader
   - Postdocs 
   - PhD Students
-  - MRes Students
-  - MSc Students
+  - Masters Students
   - Undergrad Students
   - Visitors
   - Alumni
