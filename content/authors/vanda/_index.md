@@ -76,4 +76,3 @@ user_groups:
 - Masters Students
 ---
 
-# Sam did a summer research placement at Laurentian University in Sudbury, Canada. He's also raised 20 K for a charity called Winston’s Wish over the last 6 years!
