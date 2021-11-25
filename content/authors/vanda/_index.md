@@ -22,7 +22,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nanoparticles, plant transformation and plant immunity.
 
-#interests:
+interests:
 - nanoparticles
 - plant transformation
 - plant immunity
