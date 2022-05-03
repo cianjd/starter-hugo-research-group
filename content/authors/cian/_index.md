@@ -70,9 +70,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Alumni
 ---
 
-Cian is a Postdoc at the Bozkurt lab in Imperial, studying where NLRs localise in plant cells during infection with the potato blight pathogen and how this localisation contributes to disease resistance. 
+Cian was a Postdoc/PhD Student at the Bozkurt lab in Imperial, studying where NLRs localise in plant cells during infection with the potato blight pathogen and how this localisation contributes to disease resistance. 
 
-He will soon be leaving the Bozkurt lab to start a biotech company on NLR biology with Tolga.
+He recently started a biotech company on NLR biology with Tolga, called Resurrect Bio, learn more at www.resurrect.bio
